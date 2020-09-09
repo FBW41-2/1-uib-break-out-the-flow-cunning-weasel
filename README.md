@@ -18,3 +18,4 @@
 
 7. Place `box3` **behind** `box2`.
 ![reference-image](/images/reference-image2.png)
+
